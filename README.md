@@ -76,12 +76,12 @@ python predict_disease.py
 The output file patient_disease_predictions.csv contains:
 
 ### Patient ID,Predicted Disease
-1,Hypertension
-2,Asthma
-3,Normal
-4,Arrhythmia
-5,Diabetes Mellitus
-., .....
+### 1,Hypertension
+### 2,Asthma
+### 3,Normal
+### 4,Arrhythmia
+### 5,Diabetes Mellitus
+### ., .....
 ---
 📊 Model Details
 Architecture: 4-layer neural network
