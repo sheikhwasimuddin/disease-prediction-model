@@ -75,7 +75,7 @@ python predict_disease.py
 🧪 Sample Output (CSV)
 The output file patient_disease_predictions.csv contains:
 
-Patient ID,Predicted Disease
+### Patient ID,Predicted Disease
 1,Hypertension
 2,Asthma
 3,Normal
