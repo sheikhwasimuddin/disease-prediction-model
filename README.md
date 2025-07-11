@@ -75,13 +75,13 @@ python predict_disease.py
 🧪 Sample Output (CSV)
 The output file patient_disease_predictions.csv contains:
 
-python-repl
-Copy
-Edit
-Patient ID, Predicted Disease
--1, Hypertension
--2, Asthma
--...
+Patient ID,Predicted Disease
+1,Hypertension
+2,Asthma
+3,Normal
+4,Arrhythmia
+5,Diabetes Mellitus
+., .....
 ---
 📊 Model Details
 Architecture: 4-layer neural network
@@ -91,6 +91,7 @@ Framework: TensorFlow / Keras
 Input Features: Vitals, alerts, engineered ratios
 
 Output: Multi-class softmax prediction
+
 ---
 ⚠️ Notes
 The dataset is fully synthetic and randomly generated.
