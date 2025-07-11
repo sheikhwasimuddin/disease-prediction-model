@@ -79,9 +79,9 @@ python-repl
 Copy
 Edit
 Patient ID, Predicted Disease
-1, Hypertension
-2, Asthma
-...
+-1, Hypertension
+-2, Asthma
+-...
 ---
 📊 Model Details
 Architecture: 4-layer neural network
