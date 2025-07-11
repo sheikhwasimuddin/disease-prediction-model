@@ -82,6 +82,7 @@ Patient ID, Predicted Disease
 1, Hypertension
 2, Asthma
 ...
+---
 📊 Model Details
 Architecture: 4-layer neural network
 
@@ -90,18 +91,19 @@ Framework: TensorFlow / Keras
 Input Features: Vitals, alerts, engineered ratios
 
 Output: Multi-class softmax prediction
-
+---
 ⚠️ Notes
 The dataset is fully synthetic and randomly generated.
 
 Make sure the Excel files (.xlsx) exist before training/predicting.
 
 All alerts are rule-based based on clinical thresholds.
-
+---
 📄 License
 This project is for educational and experimental use only.
+MANIT,BHOPAL.
 
 🙋‍♂️ Author
-Sheikh Wasimuddin
-Yeshwantrao Chavan College of Engineering, Nagpur
-CSE-IoT Department
+Sheikh Wasimuddin,Himanshu
+Yeshwantrao Chavan College of Engineering, Nagpur|| Central University of jharkhand
+
